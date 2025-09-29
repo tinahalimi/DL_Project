@@ -20,8 +20,7 @@ The main contributions of this project include:
 ## Repository Structure
 
 - `DL_Project_Final.ipynb`: Main notebook containing detection and tracking experiments.  
-- `Links.txt`: Reference links and supporting resources.  
-- `.gitignore`: Ignore rules for local files and outputs.  
+- `Links.txt`: Reference links and supporting resources. 
 
 ---
 
