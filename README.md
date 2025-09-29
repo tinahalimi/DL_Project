@@ -1,6 +1,6 @@
 # Object Detection and Multi-Object Tracking in Sports Videos
 
-This repository contains the implementation of deep learning–based object detection and tracking algorithms applied to sports datasets. The project explores modern approaches for identifying and tracking multiple players and objects in dynamic environments such as football and basketball games.
+This repository contains the implementation of deep learning–based object detection and tracking algorithms applied to sports datasets. The project explores modern approaches for identifying and tracking multiple players and objects in dynamic environments such as football games.
 
 ---
 
