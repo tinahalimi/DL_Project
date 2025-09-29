@@ -23,7 +23,3 @@ The main contributions of this project include:
 - `Links.txt`: Reference links and supporting resources. 
 
 ---
-
-## Authors
-
-- Tina Halimi  
